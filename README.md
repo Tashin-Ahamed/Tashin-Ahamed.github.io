@@ -1,6 +1,56 @@
-# Data Scientist
+# Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Machine Learning Engineer - Sound Denoising Specialist
+
+Welcome to my GitHub profile! I specialize in machine learning with a focus on sound denoising using advanced transfer learning techniques. Below is a summary of my technical skills and expertise.
+
+## Technical Skills
+
+### Machine Learning Frameworks
+- **TensorFlow, PyTorch, Keras:** Proficient in building and training models using these frameworks.
+- **Transfer Learning:** Experience in leveraging pre-trained models and fine-tuning them for various applications.
+
+### Sound Processing and Analysis
+- **Digital Signal Processing (DSP):** Expertise in techniques for analyzing and processing audio signals.
+- **Feature Extraction:** Skilled in extracting audio features like MFCC, spectrograms, and Mel spectrograms.
+
+### Transfer Learning
+- **Sound Denoising:** Applied transfer learning to improve sound quality by adapting and fine-tuning pre-trained models.
+
+### Deep Learning Architectures
+- **CNNs, RNNs:** Experienced with Convolutional Neural Networks and Recurrent Neural Networks.
+- **Advanced Architectures:** Knowledgeable in U-Net, GANs (Generative Adversarial Networks), and autoencoders tailored for audio processing.
+
+### Audio Data Preprocessing
+- **Techniques:** Proficient in normalization, augmentation, and noise reduction.
+- **Libraries:** Experienced with Librosa, PySoundFile, and torchaudio for handling audio data.
+
+### Model Evaluation and Optimization
+- **Metrics:** Skilled in using metrics such as Signal-to-Noise Ratio (SNR), Mean Squared Error (MSE), and perceptual evaluation.
+- **Optimization:** Expertise in hyperparameter tuning, model optimization, and cross-validation.
+
+### Programming Languages and Tools
+- **Python:** Strong programming skills with experience in libraries like NumPy, SciPy, and Pandas.
+- **Version Control:** Familiar with Git for version control and project management tools like JIRA and Trello.
+
+### Deployment and Integration
+- **Platforms:** Experience in deploying models using Docker, AWS, and Google Cloud.
+- **Integration:** Skills in integrating models into real-time audio processing applications.
+
+### Research and Development
+- **Current Trends:** Up-to-date with the latest research in audio processing and machine learning.
+- **Contributions:** Experience in implementing new techniques and contributing to technical reports or publications.
+
+### Collaboration and Communication
+- **Teamwork:** Strong skills in collaborating with cross-functional teams and stakeholders.
+- **Documentation:** Proficient in documenting work and presenting results to both technical and non-technical audiences.
+
+Feel free to explore my repositories and projects to see how these skills are applied in real-world scenarios. If you have any questions or collaborations in mind, don’t hesitate to reach out!
+
+---
+
+You can customize this template further to fit your specific projects and achievements.
+
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
