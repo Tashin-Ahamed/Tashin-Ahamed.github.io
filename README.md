@@ -1,6 +1,5 @@
-# Machine Learning Engineer
 
-# Machine Learning Engineer - Sound Denoising Specialist
+# Machine Learning Engineer - Signal Denoising Specialist
 
 Welcome to my GitHub profile! I specialize in machine learning with a focus on sound denoising using advanced transfer learning techniques. Below is a summary of my technical skills and expertise.
 
